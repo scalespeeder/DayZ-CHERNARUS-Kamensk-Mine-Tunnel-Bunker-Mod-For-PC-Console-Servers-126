@@ -1,0 +1,14 @@
+{
+    "Triggers":
+	[
+	{ 	 
+			"Position": [ 14366.71, 193.51, 3286.10],
+			"Orientation": [ 112.09698486328125, 0, 0 ],
+			"Size": [ 100, 100, 100 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		}
+		
+	]
+}

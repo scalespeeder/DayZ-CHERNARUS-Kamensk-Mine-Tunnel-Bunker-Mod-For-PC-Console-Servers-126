@@ -1,0 +1,185 @@
+{
+    "Objects": [
+        
+        {
+            "name": "StaticObj_Mine_Tunnel",
+            "pos": [
+                14345.86328125,
+                195.59181213378907,
+                3294.906005859375
+            ],
+            "ypr": [
+                -66.43629455566406,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999973773956299,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Tunnel_Single",
+            "pos": [
+                14357.5546875,
+                193.51446533203126,
+                3289.823974609375
+            ],
+            "ypr": [
+                112.09698486328125,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Tunnel_Single",
+            "pos": [
+                14366.7109375,
+                193.51446533203126,
+                3286.106201171875
+            ],
+            "ypr": [
+                112.09698486328125,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Tunnel_Single",
+            "pos": [
+                14375.95703125,
+                193.51446533203126,
+                3282.350341796875
+            ],
+            "ypr": [
+                112.09698486328125,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Corridor_Connector_Inv",
+            "pos": [
+                14387.66015625,
+                193.51446533203126,
+                3277.591552734375
+            ],
+            "ypr": [
+                -157.8000030517578,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Corridor_Main_Right",
+            "pos": [
+                14404.74609375,
+                193.51446533203126,
+                3270.514404296875
+            ],
+            "ypr": [
+                111.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Storage_POX",
+            "pos": [
+                14398.42578125,
+                193.50462341308595,
+                3254.571044921875
+            ],
+            "ypr": [
+                -158.11544799804688,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Underground_Stairs_Collapsed",
+            "pos": [
+                14392.654296875,
+                193.51446533203126,
+                3265.423583984375
+            ],
+            "ypr": [
+                -157.4080047607422,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0000004768371583,
+            "enableCEPersistency": 0
+        },
+		 {
+            "name": "Land_Underground_Stairs_Collapsed",
+            "pos": [
+                14399.826171875,
+                193.51449584960938,
+                3282.967529296875
+            ],
+            "ypr": [
+                21.022350311279298,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Large",
+            "pos": [
+                14417.82421875,
+                197.3784637451172,
+                3260.831787109375
+            ],
+            "ypr": [
+                36.69966125488281,
+                0.0,
+                0.0
+            ],
+            "scale": 5.000001907348633,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Medium2",
+            "pos": [
+                14417.25390625,
+                197.8784637451172,
+                3269.337646484375
+            ],
+            "ypr": [
+                110.3019790649414,
+                0.0,
+                0.0
+            ],
+            "scale": 3.000000238418579,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Medium2",
+            "pos": [
+                14413.6875,
+                197.8784637451172,
+                3260.107177734375
+            ],
+            "ypr": [
+                110.30197143554688,
+                0.0,
+                0.0
+            ],
+            "scale": 3.000000238418579,
+            "enableCEPersistency": 0
+        }
+    ]
+}
